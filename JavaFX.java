@@ -3,7 +3,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.scene.input.KeyCode;
 
-public class Exercise_15_29 extends Application {
+public class JavaFX extends Application {
 	// main method for the application
 	public static void main(String[] args) {
 		Application.launch(args);
